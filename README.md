@@ -1,2 +1,3 @@
-# myappsample
-just for test
+> myappsample
+just for test and learning purpose
+
